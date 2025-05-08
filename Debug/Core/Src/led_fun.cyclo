@@ -1,0 +1,4 @@
+../Core/Src/led_fun.c:5:6:LED_Init	1
+../Core/Src/led_fun.c:26:6:LED_On	1
+../Core/Src/led_fun.c:30:6:LED_Off	1
+../Core/Src/led_fun.c:34:6:delayMs	3
